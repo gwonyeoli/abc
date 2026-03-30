@@ -1,8 +1,2 @@
 Flask==3.0.3
 gunicorn==23.0.0
-
-
-
-render 명령어: 
-
-gunicorn app:app
